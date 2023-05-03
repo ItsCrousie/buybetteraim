@@ -2,8 +2,8 @@ import './App.css'
 
 
 function App() {
-  // const domain = 'http://www.buybetteraim.com'
-  const domain : string = 'localhost'
+  const domain = 'https://buybetteraim.vercel.app/'
+  // const domain : string = 'localhost'
   return (
     <div className="app">
       <ul className="links">

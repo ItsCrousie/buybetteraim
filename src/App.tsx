@@ -2,7 +2,7 @@ import './App.css'
 
 
 function App() {
-  const domain = 'https://buybetteraim.vercel.app/'
+  const domain = 'buybetteraim.vercel.app'
   // const domain : string = 'localhost'
   return (
     <div className="app">
@@ -12,7 +12,7 @@ function App() {
         <li><a href="https://twitter.com/TheSlavicCat">Twitter</a></li>
         <li><a href="https://www.tiktok.com/@slavicttv">TikTok</a></li>
       </ul>
-      <img src="/src/assets/slavic_header.png" alt="The Slavic Cat" className="app-header" loading='lazy'/>
+      <img src="public/slavic_header.png" alt="The Slavic Cat" className="app-header" loading='lazy'/>
       <iframe
           className='liveStream'
           src={`https://player.twitch.tv/?channel=slavic&parent=${domain}`}

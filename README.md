@@ -5,9 +5,11 @@
 
 #
 
-BuyBetterAim is just the domain for The Slavic Cat aka [Slavic on Twitch](https://twitch.tv/slavic). It's a simple landing page, with Twitch embed to advertise his stream and socials behind a clickbait-y "aimbot hack"-ish seller domain name.
+BuyBetterAim is a simple for-fun project I did for The Slavic Cat aka [Slavic on Twitch](https://twitch.tv/slavic). It's a simple landing page, with Twitch.tv live stream embedded to advertise his stream and links to socials.
 
 This is a Vite project and can most easily be deployed on [Vercel](https://vercel.com).
+
+Through it, <strong>I learned how to use the iframe elements, Twitch embeds and how to set up a TypeScript config.</strong>
 
 ### Tech:
 
